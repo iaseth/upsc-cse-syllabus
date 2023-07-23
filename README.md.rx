@@ -1,0 +1,7 @@
+
+
+## List of Optionals Subjects
+{% for optional in parse("optionals.json").optionals %}
+* {{ optional.title }} [{{ optional.filename }}]({{ optional.filename }}){% endfor %}
+
+

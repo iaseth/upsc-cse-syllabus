@@ -1,0 +1,245 @@
+{
+	"optionals": [
+		{
+			"title": "Agriculture",
+			"filename": "agriculture.md",
+			"literature": false
+		},
+		{
+			"title": "Animal Husbandry-and Veterinary Science",
+			"filename": "animal-husbandry-and-veterinary-science.md",
+			"literature": false
+		},
+		{
+			"title": "Anthropology",
+			"filename": "anthropology.md",
+			"literature": false
+		},
+		{
+			"title": "Botany",
+			"filename": "botany.md",
+			"literature": false
+		},
+		{
+			"title": "Chemistry",
+			"filename": "chemistry.md",
+			"literature": false
+		},
+		{
+			"title": "Civil Engineering",
+			"filename": "civil-engineering.md",
+			"literature": false
+		},
+		{
+			"title": "Commerce and Accountancy",
+			"filename": "commerce-and-accountancy.md",
+			"literature": false
+		},
+		{
+			"title": "Economics",
+			"filename": "economics.md",
+			"literature": false
+		},
+		{
+			"title": "Electrical Engineering",
+			"filename": "electrical-engineering.md",
+			"literature": false
+		},
+		{
+			"title": "Geography",
+			"filename": "geography.md",
+			"literature": false
+		},
+		{
+			"title": "Geology",
+			"filename": "geology.md",
+			"literature": false
+		},
+		{
+			"title": "History",
+			"filename": "history.md",
+			"literature": false
+		},
+		{
+			"title": "Law",
+			"filename": "law.md",
+			"literature": false
+		},
+		{
+			"title": "Management",
+			"filename": "management.md",
+			"literature": false
+		},
+		{
+			"title": "Mathematics",
+			"filename": "mathematics.md",
+			"literature": false
+		},
+		{
+			"title": "Mechanical Engineering",
+			"filename": "mechanical-engineering.md",
+			"literature": false
+		},
+		{
+			"title": "Medical Science",
+			"filename": "medical-science.md",
+			"literature": false
+		},
+		{
+			"title": "Philosophy",
+			"filename": "philosophy.md",
+			"literature": false
+		},
+		{
+			"title": "Physics",
+			"filename": "physics.md",
+			"literature": false
+		},
+		{
+			"title": "Political Science and International Relations",
+			"filename": "political-science-and-international-relations.md",
+			"literature": false
+		},
+		{
+			"title": "Psychology",
+			"filename": "psychology.md",
+			"literature": false
+		},
+		{
+			"title": "Public Administration",
+			"filename": "public-administration.md",
+			"literature": false
+		},
+		{
+			"title": "Sociology",
+			"filename": "sociology.md",
+			"literature": false
+		},
+		{
+			"title": "Statistics",
+			"filename": "statistics.md",
+			"literature": false
+		},
+		{
+			"title": "Zoology",
+			"filename": "zoology.md",
+			"literature": false
+		},
+
+		{
+			"title": "Assamese Literature",
+			"filename": "lit-assamese.md",
+			"literature": true
+		},
+		{
+			"title": "Bengali Literature",
+			"filename": "lit-bengali.md",
+			"literature": true
+		},
+		{
+			"title": "Bodo Literature",
+			"filename": "lit-bodo.md",
+			"literature": true
+		},
+		{
+			"title": "Dogri Literature",
+			"filename": "lit-dogri.md",
+			"literature": true
+		},
+		{
+			"title": "English Literature",
+			"filename": "lit-english.md",
+			"literature": true
+		},
+		{
+			"title": "Gujarati Literature",
+			"filename": "lit-gujarati.md",
+			"literature": true
+		},
+		{
+			"title": "Hindi Literature",
+			"filename": "lit-hindi.md",
+			"literature": true
+		},
+		{
+			"title": "Kannada Literature",
+			"filename": "lit-kannada.md",
+			"literature": true
+		},
+		{
+			"title": "Kashmiri Literature",
+			"filename": "lit-kashmiri.md",
+			"literature": true
+		},
+		{
+			"title": "Konkani Literature",
+			"filename": "lit-konkani.md",
+			"literature": true
+		},
+		{
+			"title": "Maithili Literature",
+			"filename": "lit-maithili.md",
+			"literature": true
+		},
+		{
+			"title": "Malayalam Literature",
+			"filename": "lit-malayalam.md",
+			"literature": true
+		},
+		{
+			"title": "Manipuri Literature",
+			"filename": "lit-manipuri.md",
+			"literature": true
+		},
+		{
+			"title": "Marathi Literature",
+			"filename": "lit-marathi.md",
+			"literature": true
+		},
+		{
+			"title": "Nepali Literature",
+			"filename": "lit-nepali.md",
+			"literature": true
+		},
+		{
+			"title": "Odia Literature",
+			"filename": "lit-odia.md",
+			"literature": true
+		},
+		{
+			"title": "Punjabi Literature",
+			"filename": "lit-punjabi.md",
+			"literature": true
+		},
+		{
+			"title": "Sanskrit Literature",
+			"filename": "lit-sanskrit.md",
+			"literature": true
+		},
+		{
+			"title": "Santhali Literature",
+			"filename": "lit-santhali.md",
+			"literature": true
+		},
+		{
+			"title": "Sindhi Literature",
+			"filename": "lit-sindhi.md",
+			"literature": true
+		},
+		{
+			"title": "Tamil Literature",
+			"filename": "lit-tamil.md",
+			"literature": true
+		},
+		{
+			"title": "Telugu Literature",
+			"filename": "lit-telugu.md",
+			"literature": true
+		},
+		{
+			"title": "Urdu Literature",
+			"filename": "lit-urdu.md",
+			"literature": true
+		}
+	]
+}

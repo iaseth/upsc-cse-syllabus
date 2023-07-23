@@ -1,7 +1,9 @@
 
 
 ## List of Optionals Subjects
-{% for optional in parse("optionals.json").optionals %}
-* {{ optional.title }} [{{ optional.filename }}]({{ optional.filename }}){% endfor %}
+{% for sub in parse("optionals.json").optionals %}
+* {{ sub.title }}
+	+ Syllabus: [{{ sub.filename }}]({{ "lit/" + sub.filename if sub.literature else sub.filename }})
+{% endfor %}
 
 

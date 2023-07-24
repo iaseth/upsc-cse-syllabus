@@ -3,79 +3,79 @@
 ## List of Optionals Subjects
 
 * Agriculture
-    + Syllabus: [agriculture.md](agriculture.md)
+    + Syllabus: [agriculture.md](nonlit/agriculture.md)
 
 * Animal Husbandry-and Veterinary Science
-    + Syllabus: [animal-husbandry-and-veterinary-science.md](animal-husbandry-and-veterinary-science.md)
+    + Syllabus: [animal-husbandry-and-veterinary-science.md](nonlit/animal-husbandry-and-veterinary-science.md)
 
 * Anthropology
-    + Syllabus: [anthropology.md](anthropology.md)
+    + Syllabus: [anthropology.md](nonlit/anthropology.md)
 
 * Botany
-    + Syllabus: [botany.md](botany.md)
+    + Syllabus: [botany.md](nonlit/botany.md)
 
 * Chemistry
-    + Syllabus: [chemistry.md](chemistry.md)
+    + Syllabus: [chemistry.md](nonlit/chemistry.md)
 
 * Civil Engineering
-    + Syllabus: [civil-engineering.md](civil-engineering.md)
+    + Syllabus: [civil-engineering.md](nonlit/civil-engineering.md)
 
 * Commerce and Accountancy
-    + Syllabus: [commerce-and-accountancy.md](commerce-and-accountancy.md)
+    + Syllabus: [commerce-and-accountancy.md](nonlit/commerce-and-accountancy.md)
 
 * Economics
-    + Syllabus: [economics.md](economics.md)
+    + Syllabus: [economics.md](nonlit/economics.md)
 
 * Electrical Engineering
-    + Syllabus: [electrical-engineering.md](electrical-engineering.md)
+    + Syllabus: [electrical-engineering.md](nonlit/electrical-engineering.md)
 
 * Geography
-    + Syllabus: [geography.md](geography.md)
+    + Syllabus: [geography.md](nonlit/geography.md)
 
 * Geology
-    + Syllabus: [geology.md](geology.md)
+    + Syllabus: [geology.md](nonlit/geology.md)
 
 * History
-    + Syllabus: [history.md](history.md)
+    + Syllabus: [history.md](nonlit/history.md)
 
 * Law
-    + Syllabus: [law.md](law.md)
+    + Syllabus: [law.md](nonlit/law.md)
 
 * Management
-    + Syllabus: [management.md](management.md)
+    + Syllabus: [management.md](nonlit/management.md)
 
 * Mathematics
-    + Syllabus: [mathematics.md](mathematics.md)
+    + Syllabus: [mathematics.md](nonlit/mathematics.md)
 
 * Mechanical Engineering
-    + Syllabus: [mechanical-engineering.md](mechanical-engineering.md)
+    + Syllabus: [mechanical-engineering.md](nonlit/mechanical-engineering.md)
 
 * Medical Science
-    + Syllabus: [medical-science.md](medical-science.md)
+    + Syllabus: [medical-science.md](nonlit/medical-science.md)
 
 * Philosophy
-    + Syllabus: [philosophy.md](philosophy.md)
+    + Syllabus: [philosophy.md](nonlit/philosophy.md)
 
 * Physics
-    + Syllabus: [physics.md](physics.md)
+    + Syllabus: [physics.md](nonlit/physics.md)
 
 * Political Science and International Relations
-    + Syllabus: [political-science-and-international-relations.md](political-science-and-international-relations.md)
+    + Syllabus: [political-science-and-international-relations.md](nonlit/political-science-and-international-relations.md)
 
 * Psychology
-    + Syllabus: [psychology.md](psychology.md)
+    + Syllabus: [psychology.md](nonlit/psychology.md)
 
 * Public Administration
-    + Syllabus: [public-administration.md](public-administration.md)
+    + Syllabus: [public-administration.md](nonlit/public-administration.md)
 
 * Sociology
-    + Syllabus: [sociology.md](sociology.md)
+    + Syllabus: [sociology.md](nonlit/sociology.md)
 
 * Statistics
-    + Syllabus: [statistics.md](statistics.md)
+    + Syllabus: [statistics.md](nonlit/statistics.md)
 
 * Zoology
-    + Syllabus: [zoology.md](zoology.md)
+    + Syllabus: [zoology.md](nonlit/zoology.md)
 
 * Assamese Literature
     + Syllabus: [lit-assamese.md](lit/lit-assamese.md)
